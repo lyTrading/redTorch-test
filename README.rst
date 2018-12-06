@@ -131,6 +131,8 @@ RedTorch
     
 + 一切就绪后运行RtApplication,访问链接:http://IP:9099/static/html/index.html,一般是:http://localhost:9099/static/html/index.html
 
+Testing for commit
+
 FAQ
 ------
 + 策略如何配置
